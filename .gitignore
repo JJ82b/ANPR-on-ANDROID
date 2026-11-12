@@ -1,0 +1,14 @@
+build/
+output/
+.signing/
+local.properties
+*.jks
+*.keystore
+*.idsig
+*.iml
+.idea/
+.codex/
+.agents/
+.aws/
+.env
+.env.*
